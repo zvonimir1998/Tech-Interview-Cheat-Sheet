@@ -392,6 +392,8 @@ This algorithm never needed to compare all the differences to one another, savin
 - Quicksort continually partitions the data set by a pivot, until the set is recursively sorted.
 
 ## <a id="additional-resources"></a>Additional Resources
+
+* [InterviewLegend](https://interviewlegend.com) - company-specific coding, system design, and behavioral interview prep
 [Khan Academy's Algorithm Course](https://www.khanacademy.org/computing/computer-science/algorithms)
 [Graph Data Structure & Algorithms](https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/)
 [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
